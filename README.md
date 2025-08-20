@@ -2,7 +2,7 @@
 
 <p align="center">
   <span>
-[!(https://cdn1.gnarususercontent.com.br/6/451688/8f9126de-f8e2-4249-8584-a59b91ff928e.png)]
+    <img width="200" height="500" alt="8f9126de-f8e2-4249-8584-a59b91ff928e" src="https://github.com/user-attachments/assets/a30a0392-3114-486d-a2fa-e2cd1091183e" />
   </span>
   <span style="display: inline-block; vertical-align: middle; max-width: 400px;">
   </span>
@@ -26,12 +26,12 @@ A aplicação segue os princípios **RESTful** e inclui **autenticação via JWT
 ---
 
 ## ✨ Funcionalidades  
-- Cadastro e autenticação de usuários  
-- Criação, listagem, atualização e exclusão de tópicos  
-- Associação de tópicos a cursos e autores  
-- Autenticação via **Bearer Token (JWT)**  
-- Controle de acesso por autor  
-
+1. Cadastro e autenticação de usuários
+2. Criação, listagem, atualização e exclusão de tópicos
+3. Associação de tópicos a cursos e autores
+4. Autenticação via **Bearer Token (JWT)**  
+5. Controle de acesso por autor
+   
 ---
 
 ## 🛠️ Tecnologias Utilizadas  
